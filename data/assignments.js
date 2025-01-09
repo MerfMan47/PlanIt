@@ -15,5 +15,13 @@ assignments = {
       "submitted": false
     }
   ],
-  "CSE 369": []
+  "CSE 369": [
+    {
+      "title": "Lab 1 & 2 Report",
+      "course": "CSE 369",
+      "dueDate": "2025-01-22T14:30:00",
+      "link": "https://www.gradescope.com/courses/942142",
+      "submitted": false
+    }
+  ]
 };
