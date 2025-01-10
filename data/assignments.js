@@ -11,8 +11,8 @@ assignments = {
       "title": "ex1 - Exercise 1",
       "course": "CSE 333",
       "dueDate": "2025-01-10T10:00:00",
-      "link": "https://www.gradescope.com/courses/933270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/933270/assignments/5553819/submissions/299332333",
+      "submitted": true
     }
   ],
   "CSE 369": [
