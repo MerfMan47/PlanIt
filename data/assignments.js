@@ -20,6 +20,13 @@ assignments = {
       "dueDate": "2025-01-13T10:00:00",
       "link": "https://www.gradescope.com/courses/933270/assignments/5568187/submissions/299541858",
       "submitted": true
+    },
+    {
+      "title": "ex3 - Exercise 3",
+      "course": "CSE 333",
+      "dueDate": "2025-01-15T10:00:00",
+      "link": "https://www.gradescope.com/courses/933270",
+      "submitted": false
     }
   ],
   "CSE 369": [
