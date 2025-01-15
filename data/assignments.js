@@ -27,6 +27,13 @@ assignments = {
       "dueDate": "2025-01-15T10:00:00",
       "link": "https://www.gradescope.com/courses/933270/assignments/5578843/submissions/299699851",
       "submitted": true
+    },
+    {
+      "title": "ex4 - Exercise 4",
+      "course": "CSE 333",
+      "dueDate": "2025-01-17T10:00:00",
+      "link": "https://www.gradescope.com/courses/933270",
+      "submitted": false
     }
   ],
   "CSE 369": [
