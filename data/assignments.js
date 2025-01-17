@@ -32,8 +32,8 @@ assignments = {
       "title": "ex4 - Exercise 4",
       "course": "CSE 333",
       "dueDate": "2025-01-17T10:00:00",
-      "link": "https://www.gradescope.com/courses/933270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/933270/assignments/5606497/submissions/300344138",
+      "submitted": true
     },
     {
       "title": "hw0 - Homework 0",
