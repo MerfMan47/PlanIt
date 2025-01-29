@@ -60,8 +60,8 @@ assignments = {
       "title": "ex8 - Exercise 8",
       "course": "CSE 333",
       "dueDate": "2025-01-29T10:00:00",
-      "link": "https://www.gradescope.com/courses/933270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/933270/assignments/5672178/submissions/302876415",
+      "submitted": true
     },
     {
       "title": "hw1 - Homework 1",
