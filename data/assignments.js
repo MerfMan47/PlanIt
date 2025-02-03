@@ -106,6 +106,13 @@ assignments = {
       "dueDate": "2025-01-29T14:30:00",
       "link": "https://www.gradescope.com/courses/942142/assignments/5646037/submissions/302235289",
       "submitted": true
+    },
+    {
+      "title": "Lab 4 Report",
+      "course": "CSE 369",
+      "dueDate": "2025-10-30T14:30:00",
+      "link": "https://www.gradescope.com/courses/942142",
+      "submitted": false
     }
   ]
 };
