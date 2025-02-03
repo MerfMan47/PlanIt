@@ -74,8 +74,8 @@ assignments = {
       "title": "ex9 - Exercise 9",
       "course": "CSE 333",
       "dueDate": "2025-02-03T10:00:00",
-      "link": "https://www.gradescope.com/courses/933270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/933270/assignments/5696571/submissions/304476306",
+      "submitted": true
     }
   ],
   "CSE 369": [
