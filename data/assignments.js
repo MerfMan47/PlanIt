@@ -110,7 +110,7 @@ assignments = {
     {
       "title": "Lab 4 Report",
       "course": "CSE 369",
-      "dueDate": "2025-10-30T14:30:00",
+      "dueDate": "2025-02-05T14:30:00",
       "link": "https://www.gradescope.com/courses/942142",
       "submitted": false
     }
