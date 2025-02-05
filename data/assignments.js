@@ -81,8 +81,8 @@ assignments = {
       "title": "ex10 - exercise 10",
       "course": "CSE 333",
       "dueDate": "2025-02-05T10:00:00",
-      "link": "https://www.gradescope.com/courses/933270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/933270/assignments/5714797/submissions/305287167",
+      "submitted": true
     },
     {
       "title": "hw1 bonus",
