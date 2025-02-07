@@ -90,6 +90,20 @@ assignments = {
       "dueDate": "2025-01-23T23:59:00",
       "link": "https://www.gradescope.com/courses/933270",
       "submitted": false
+    },
+    {
+      "title": "ex11 - exercise 11",
+      "course": "CSE 333",
+      "dueDate": "2025-02-10T10:00:00",
+      "link": "https://www.gradescope.com/courses/933270",
+      "submitted": false
+    },
+    {
+      "title": "ex12 - exercise 12",
+      "course": "CSE 333",
+      "dueDate": "2025-02-12T10:00:00",
+      "link": "https://www.gradescope.com/courses/933270",
+      "submitted": false
     }
   ],
   "CSE 369": [
