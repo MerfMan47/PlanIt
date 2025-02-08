@@ -95,8 +95,8 @@ assignments = {
       "title": "ex11 - exercise 11",
       "course": "CSE 333",
       "dueDate": "2025-02-10T10:00:00",
-      "link": "https://www.gradescope.com/courses/933270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/933270/assignments/5736077/submissions/306396837",
+      "submitted": true
     },
     {
       "title": "ex12 - exercise 12",
