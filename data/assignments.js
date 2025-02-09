@@ -104,6 +104,13 @@ assignments = {
       "dueDate": "2025-02-12T10:00:00",
       "link": "https://www.gradescope.com/courses/933270",
       "submitted": false
+    },
+    {
+      "title": "hw2 - homework 2",
+      "course": "CSE 333",
+      "dueDate": "2025-02-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/933270",
+      "submitted": false
     }
   ],
   "CSE 369": [
