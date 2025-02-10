@@ -109,8 +109,8 @@ assignments = {
       "title": "hw2 - homework 2",
       "course": "CSE 333",
       "dueDate": "2025-02-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/933270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/933270/assignments/5756435/submissions/306800853",
+      "submitted": true
     }
   ],
   "CSE 369": [
