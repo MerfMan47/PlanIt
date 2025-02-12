@@ -153,8 +153,8 @@ assignments = {
       "title": "Lab 5 Report",
       "course": "CSE 369",
       "dueDate": "2025-02-12T14:30:00",
-      "link": "https://www.gradescope.com/courses/942142",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/942142/assignments/5728523/submissions/307609634",
+      "submitted": true
     },
     {
       "title": "Lab 4 Demo (No Submit)",
