@@ -169,6 +169,13 @@ assignments = {
       "dueDate": "2025-02-19T14:30:00",
       "link": "https://www.gradescope.com/courses/942142",
       "submitted": false
+    },
+    {
+      "title": "Lab 5 Demo (No Submit)",
+      "course": "CSE 369",
+      "dueDate": "2025-02-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/942142",
+      "submitted": false
     }
   ]
 };
