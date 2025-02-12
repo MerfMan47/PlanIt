@@ -102,8 +102,8 @@ assignments = {
       "title": "ex12 - exercise 12",
       "course": "CSE 333",
       "dueDate": "2025-02-12T10:00:00",
-      "link": "https://www.gradescope.com/courses/933270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/933270/assignments/5736107/submissions/307615785",
+      "submitted": true
     },
     {
       "title": "hw2 - homework 2",
