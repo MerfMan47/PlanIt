@@ -125,6 +125,13 @@ assignments = {
       "dueDate": "2025-02-21T11:00:00",
       "link": "https://www.gradescope.com/courses/933270/assignments/5814294/submissions/310281528",
       "submitted": true
+    },
+    {
+      "title": "hw2 bonus",
+      "course": "CSE 333",
+      "dueDate": "2025-02-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/933270",
+      "submitted": false
     }
   ],
   "CSE 369": [
