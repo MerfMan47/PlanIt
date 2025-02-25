@@ -202,8 +202,8 @@ assignments = {
       "title": "Lab 7 Report",
       "course": "CSE 369",
       "dueDate": "2025-02-26T14:30:00",
-      "link": "https://www.gradescope.com/courses/942142",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/942142/assignments/5850440/submissions/312072341",
+      "submitted": true
     }
   ]
 };
