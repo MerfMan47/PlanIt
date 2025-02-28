@@ -139,6 +139,13 @@ assignments = {
       "dueDate": "2025-03-03T10:00:00",
       "link": "https://www.gradescope.com/courses/933270",
       "submitted": false
+    },
+    {
+      "title": "ex16 - exercise 16",
+      "course": "CSE 333",
+      "dueDate": "2025-03-05T10:00:00",
+      "link": "https://www.gradescope.com/courses/933270",
+      "submitted": false
     }
   ],
   "CSE 369": [
