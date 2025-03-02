@@ -137,15 +137,15 @@ assignments = {
       "title": "ex15 - Exercise 15",
       "course": "CSE 333",
       "dueDate": "2025-03-03T10:00:00",
-      "link": "https://www.gradescope.com/courses/933270/assignments/5860634/submissions/313586933",
+      "link": "https://www.gradescope.com/courses/933270/assignments/5860634/submissions/313611951",
       "submitted": true
     },
     {
       "title": "ex16 - exercise 16",
       "course": "CSE 333",
       "dueDate": "2025-03-05T10:00:00",
-      "link": "https://www.gradescope.com/courses/933270",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/933270/assignments/5860635/submissions/313612012",
+      "submitted": true
     }
   ],
   "CSE 369": [
