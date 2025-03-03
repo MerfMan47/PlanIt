@@ -134,6 +134,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "hw3 - Homework 3",
+      "course": "CSE 333",
+      "dueDate": "2025-02-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/933270/assignments/5858853/submissions/313862588",
+      "submitted": true
+    },
+    {
       "title": "ex15 - Exercise 15",
       "course": "CSE 333",
       "dueDate": "2025-03-03T10:00:00",
