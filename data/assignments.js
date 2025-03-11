@@ -244,8 +244,8 @@ assignments = {
       "title": "Check-In for Lab 8 (SUBMIT!!!)",
       "course": "CSE 369",
       "dueDate": "2025-03-05T14:30:00",
-      "link": "https://www.gradescope.com/courses/942142",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/942142/assignments/5852153/submissions/316335716",
+      "submitted": true
     },
     {
       "title": "Lab 8 Report",
