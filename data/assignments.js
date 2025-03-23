@@ -167,6 +167,20 @@ assignments = {
       "dueDate": "2025-02-13T23:59:00",
       "link": "https://www.gradescope.com/courses/933270",
       "submitted": false
+    },
+    {
+      "title": "hw4 - Homework 4",
+      "course": "CSE 333",
+      "dueDate": "2025-03-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/933270/assignments/5945171/submissions/317772975",
+      "submitted": true
+    },
+    {
+      "title": "hw4 bonus",
+      "course": "CSE 333",
+      "dueDate": "2025-03-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/933270",
+      "submitted": false
     }
   ],
   "CSE 369": [
