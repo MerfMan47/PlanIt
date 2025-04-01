@@ -30,5 +30,6 @@ assignments = {
       "link": "https://www.gradescope.com/courses/1011407",
       "submitted": false
     }
-  ]
+  ],
+  "EE/CSE 371": []
 };
