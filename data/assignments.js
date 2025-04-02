@@ -4,15 +4,15 @@ assignments = {
       "title": "Concept Check 01: Sum & Product Rules;  Permutation",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-04T13:00:00",
-      "link": "https://www.gradescope.com/courses/1012980/assignments/6010040/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010040/submissions/321643603",
+      "submitted": true
     },
     {
       "title": "Concept Check 00: Survey",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-04T13:00:00",
-      "link": "https://www.gradescope.com/courses/1012980/assignments/6010053/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010053/submissions/321634302",
+      "submitted": true
     }
   ],
   "CSE 332": [
