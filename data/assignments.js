@@ -31,13 +31,5 @@ assignments = {
       "submitted": false
     }
   ],
-  "EE/CSE 371": [
-    {
-      "title": "Lab 1 Report and Code",
-      "course": "EE/CSE 371",
-      "dueDate": "2025-04-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/1013751",
-      "submitted": false
-    }
-  ]
+  "EE/CSE 371": []
 };
