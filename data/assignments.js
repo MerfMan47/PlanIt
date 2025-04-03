@@ -1,6 +1,13 @@
 assignments = {
   "CSE 312 - 25sp": [
     {
+      "title": "HW 1 Problem 0 (Math Review)",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010027/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Concept Check 02: More Counting Problems",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-04T13:00:00",
