@@ -15,6 +15,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "HW 1 [Coding]",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/1012980",
+      "submitted": false
+    },
+    {
       "title": "Concept Check 00: Survey",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-04T13:00:00",
