@@ -4,8 +4,8 @@ assignments = {
       "title": "Concept Check 02: More Counting Problems",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-04T13:00:00",
-      "link": "https://www.gradescope.com/courses/1012980/assignments/6010030/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010030/submissions/322406202",
+      "submitted": true
     },
     {
       "title": "Concept Check 01: Sum & Product Rules;  Permutation",
