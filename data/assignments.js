@@ -8,6 +8,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Concept Check 03: Even More Counting",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-07T13:00:00",
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010039/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Concept Check 01: Sum & Product Rules;  Permutation",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-04T13:00:00",
