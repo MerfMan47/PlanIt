@@ -22,6 +22,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "HW 1 [Written]",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/1012980",
+      "submitted": false
+    },
+    {
       "title": "Concept Check 00: Survey",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-04T13:00:00",
@@ -42,6 +49,13 @@ assignments = {
       "course": "CSE 332",
       "dueDate": "2025-04-07T23:59:00",
       "link": "https://www.gradescope.com/courses/1011407",
+      "submitted": false
+    },
+    {
+      "title": "EX01: Running Time",
+      "course": "CSE 332",
+      "dueDate": "2025-04-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/1011407/assignments/6034139/submissions/new",
       "submitted": false
     }
   ],
