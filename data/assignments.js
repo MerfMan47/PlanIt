@@ -48,7 +48,7 @@ assignments = {
       "title": "EX00: (Stacks & Queues) Programming Portion ",
       "course": "CSE 332",
       "dueDate": "2025-04-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/1011407/assignments/5999283/submissions/322812735",
+      "link": "https://www.gradescope.com/courses/1011407/assignments/5999283/submissions/322814862",
       "submitted": true
     },
     {
@@ -63,6 +63,13 @@ assignments = {
       "course": "CSE 332",
       "dueDate": "2025-04-11T23:59:00",
       "link": "https://www.gradescope.com/courses/1011407/assignments/6034139/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "EX02: Heaps",
+      "course": "CSE 332",
+      "dueDate": "2025-01-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/1011407",
       "submitted": false
     }
   ],
