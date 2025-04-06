@@ -11,8 +11,8 @@ assignments = {
       "title": "Concept Check 03: Even More Counting",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-07T13:00:00",
-      "link": "https://www.gradescope.com/courses/1012980/assignments/6010039/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010039/submissions/322843746",
+      "submitted": true
     },
     {
       "title": "Concept Check 01: Sum & Product Rules;  Permutation",
@@ -55,8 +55,8 @@ assignments = {
       "title": "EX00: Benchmarking",
       "course": "CSE 332",
       "dueDate": "2025-04-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/1011407",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1011407/assignments/5999284/submissions/322842738",
+      "submitted": true
     },
     {
       "title": "EX01: Running Time",
