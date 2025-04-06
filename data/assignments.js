@@ -48,8 +48,8 @@ assignments = {
       "title": "EX00: (Stacks & Queues) Programming Portion ",
       "course": "CSE 332",
       "dueDate": "2025-04-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/1011407",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1011407/assignments/5999283/submissions/322812735",
+      "submitted": true
     },
     {
       "title": "EX00: Benchmarking",
