@@ -64,6 +64,13 @@ assignments = {
       "dueDate": "2025-04-11T23:59:00",
       "link": "https://www.gradescope.com/courses/1011407/assignments/6034139/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "EX02: Heaps",
+      "course": "CSE 332",
+      "dueDate": "2025-04-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/1011407",
+      "submitted": false
     }
   ],
   "EE/CSE 371": [
