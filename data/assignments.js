@@ -8,6 +8,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Section Participation",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-06-12T09:00:00",
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010031/submissions/322255053",
+      "submitted": true
+    },
+    {
       "title": "Concept Check 03: Even More Counting",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-07T13:00:00",
