@@ -29,6 +29,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Concept Check 04: Introduction to Discrete Probability",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-09T13:00:00",
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010041/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "HW 1 [Coding]",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-09T23:59:00",
