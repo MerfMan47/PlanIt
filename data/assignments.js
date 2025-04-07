@@ -71,8 +71,8 @@ assignments = {
       "title": "Homework 1",
       "course": "EE/CSE 371",
       "dueDate": "2025-04-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/1013751",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1013751/assignments/6014776/submissions/323015341",
+      "submitted": true
     },
     {
       "title": "Lab 1 Report and Code",
