@@ -89,6 +89,13 @@ assignments = {
   ],
   "EE/CSE 371": [
     {
+      "title": "Lab 1 Demo (No Submit)",
+      "course": "EE/CSE 371",
+      "dueDate": "2025-04-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/1013751",
+      "submitted": false
+    },
+    {
       "title": "Homework 1",
       "course": "EE/CSE 371",
       "dueDate": "2025-04-07T23:59:00",
@@ -96,9 +103,23 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Homework 2",
+      "course": "EE/CSE 371",
+      "dueDate": "2025-04-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/1013751",
+      "submitted": false
+    },
+    {
       "title": "Lab 1 Report and Code",
       "course": "EE/CSE 371",
       "dueDate": "2025-04-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/1013751",
+      "submitted": false
+    },
+    {
+      "title": "Lab 2 Report and Code",
+      "course": "EE/CSE 371",
+      "dueDate": "2025-04-18T23:59:00",
       "link": "https://www.gradescope.com/courses/1013751",
       "submitted": false
     }
