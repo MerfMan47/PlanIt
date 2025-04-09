@@ -15,6 +15,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "HW 2 [Written]",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/1012980",
+      "submitted": false
+    },
+    {
       "title": "Concept Check 03: Even More Counting",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-07T13:00:00",
@@ -36,6 +43,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Concept Check 05: Conditional Probability; Bayes' Theorem; Law of Total Probability",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-11T13:00:00",
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010042/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "HW 1 [Coding]",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-09T23:59:00",
@@ -55,6 +69,13 @@ assignments = {
       "dueDate": "2025-04-04T13:00:00",
       "link": "https://www.gradescope.com/courses/1012980/assignments/6010053/submissions/321634302",
       "submitted": true
+    },
+    {
+      "title": "HW 2 Task 5 (Balls in a Jar) [Online]",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6059258/submissions/new",
+      "submitted": false
     }
   ],
   "CSE 332": [
