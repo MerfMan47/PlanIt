@@ -32,22 +32,22 @@ assignments = {
       "title": "Concept Check 04: Introduction to Discrete Probability",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-09T13:00:00",
-      "link": "https://www.gradescope.com/courses/1012980/assignments/6010041/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010041/submissions/323680469",
+      "submitted": true
     },
     {
       "title": "HW 1 [Coding]",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/1012980",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010047/submissions/323677984",
+      "submitted": true
     },
     {
       "title": "HW 1 [Written]",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/1012980",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010048/submissions/323678964",
+      "submitted": true
     },
     {
       "title": "Concept Check 00: Survey",
