@@ -46,8 +46,8 @@ assignments = {
       "title": "Concept Check 05: Conditional Probability; Bayes' Theorem; Law of Total Probability",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-11T13:00:00",
-      "link": "https://www.gradescope.com/courses/1012980/assignments/6010042/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010042/submissions/324347149",
+      "submitted": true
     },
     {
       "title": "HW 1 [Coding]",
