@@ -113,6 +113,13 @@ assignments = {
       "dueDate": "2025-04-14T23:59:00",
       "link": "https://www.gradescope.com/courses/1011407",
       "submitted": false
+    },
+    {
+      "title": "EX03: Recurrences",
+      "course": "CSE 332",
+      "dueDate": "2025-04-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/1011407/assignments/6052831/submissions/new",
+      "submitted": false
     }
   ],
   "EE/CSE 371": [
