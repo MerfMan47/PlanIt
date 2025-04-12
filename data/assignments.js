@@ -104,8 +104,8 @@ assignments = {
       "title": "EX01: Running Time",
       "course": "CSE 332",
       "dueDate": "2025-04-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/1011407/assignments/6034139/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1011407/assignments/6034139/submissions/324741955",
+      "submitted": true
     },
     {
       "title": "EX02: Heaps",
