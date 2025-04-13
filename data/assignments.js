@@ -111,8 +111,8 @@ assignments = {
       "title": "EX02: Heaps",
       "course": "CSE 332",
       "dueDate": "2025-04-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/1011407",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1011407/assignments/6044009/submissions/324903802",
+      "submitted": true
     },
     {
       "title": "EX03: Recurrences",
