@@ -71,6 +71,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Concept Check 07: Chain Rule; Independence",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-16T13:00:00",
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010052/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Concept Check 00: Survey",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-04T13:00:00",
