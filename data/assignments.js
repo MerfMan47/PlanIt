@@ -74,8 +74,8 @@ assignments = {
       "title": "Concept Check 07: Chain Rule; Independence",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-16T13:00:00",
-      "link": "https://www.gradescope.com/courses/1012980/assignments/6010052/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010052/submissions/325762109",
+      "submitted": true
     },
     {
       "title": "Concept Check 00: Survey",
@@ -85,10 +85,38 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "HW 3 [Coding]",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/1012980",
+      "submitted": false
+    },
+    {
       "title": "HW 2 Task 5 (Balls in a Jar) [Online]",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-16T23:59:00",
       "link": "https://www.gradescope.com/courses/1012980/assignments/6059258/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "HW 3 Task 5 (RV or Motor Home?) [Online]",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6083634/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Concept Check 8: Intro to Discrete RV, Expectation & Linearity of Expectation",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-18T13:00:00",
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6093323/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Concept Check 22: Getting the Tail Bounds we want with the Union Bound AU",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-11-27T13:00:00",
+      "link": "https://www.gradescope.com/courses/1012980",
       "submitted": false
     }
   ],
@@ -131,6 +159,20 @@ assignments = {
   ],
   "EE/CSE 371": [
     {
+      "title": "Homework 3",
+      "course": "EE/CSE 371",
+      "dueDate": "2025-04-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/1013751",
+      "submitted": false
+    },
+    {
+      "title": "Lab 2 Demo (No Submit)",
+      "course": "EE/CSE 371",
+      "dueDate": "2025-04-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/1013751",
+      "submitted": false
+    },
+    {
       "title": "Lab 1 Demo (No Submit)",
       "course": "EE/CSE 371",
       "dueDate": "2025-04-18T23:59:00",
@@ -148,8 +190,8 @@ assignments = {
       "title": "Homework 2",
       "course": "EE/CSE 371",
       "dueDate": "2025-04-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/1013751",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1013751/assignments/6014778/submissions/325649736",
+      "submitted": true
     },
     {
       "title": "Lab 1 Report and Code",
@@ -162,6 +204,13 @@ assignments = {
       "title": "Lab 2 Report and Code",
       "course": "EE/CSE 371",
       "dueDate": "2025-04-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/1013751",
+      "submitted": false
+    },
+    {
+      "title": "Lab 3 Report and Code",
+      "course": "EE/CSE 371",
+      "dueDate": "2025-05-04T23:59:00",
       "link": "https://www.gradescope.com/courses/1013751",
       "submitted": false
     }
