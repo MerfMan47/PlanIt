@@ -18,8 +18,8 @@ assignments = {
       "title": "HW 2 [Written]",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/1012980",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010038/submissions/326150564",
+      "submitted": true
     },
     {
       "title": "Concept Check 03: Even More Counting",
@@ -92,11 +92,18 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Concept Check 9: Homework Lab Feedback",
+      "course": "CSE 312 - 25sp",
+      "dueDate": "2025-04-21T13:00:00",
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6010058/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "HW 2 Task 5 (Balls in a Jar) [Online]",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/1012980/assignments/6059258/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6059258/submissions/326142684",
+      "submitted": true
     },
     {
       "title": "HW 3 Task 5 (RV or Motor Home?) [Online]",
@@ -109,15 +116,8 @@ assignments = {
       "title": "Concept Check 8: Intro to Discrete RV, Expectation & Linearity of Expectation",
       "course": "CSE 312 - 25sp",
       "dueDate": "2025-04-18T13:00:00",
-      "link": "https://www.gradescope.com/courses/1012980/assignments/6093323/submissions/new",
-      "submitted": false
-    },
-    {
-      "title": "Concept Check 22: Getting the Tail Bounds we want with the Union Bound AU",
-      "course": "CSE 312 - 25sp",
-      "dueDate": "2025-11-27T13:00:00",
-      "link": "https://www.gradescope.com/courses/1012980",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1012980/assignments/6093323/submissions/326489432",
+      "submitted": true
     }
   ],
   "CSE 332": [
@@ -154,6 +154,13 @@ assignments = {
       "course": "CSE 332",
       "dueDate": "2025-04-18T23:59:00",
       "link": "https://www.gradescope.com/courses/1011407/assignments/6052831/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "EX04: AVL Trees",
+      "course": "CSE 332",
+      "dueDate": "2025-04-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/1011407",
       "submitted": false
     }
   ],
