@@ -8,14 +8,20 @@ on:
     branches: [ main ]
   schedule:
   - cron: '30 */1 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
 
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-    - uses: actions/checkout@v3
+    # checkout v5 and setup-python v6 run on Node 24. Older majors use Node 16
+    # or Node 20, which GitHub Actions runners no longer provide.
+    - uses: actions/checkout@v5
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,10 +35,11 @@ jobs:
         git checkout planit/main -- .
         git checkout HEAD -- data || true
         git checkout HEAD -- .github
+        git checkout HEAD -- src/resources/templates/workflow_template.yml
         git commit -m 'Upgraded to latest Planit version' || true
     
     - name: Set up Python 3.10
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: "3.10"
         cache: "pip"
