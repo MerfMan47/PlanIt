@@ -8,10 +8,13 @@ TEMPLATES_DIR = os.path.join('src', 'resources', 'templates')
 
 
 def get_assignment_dict(title, course, due_date, link, submitted):
+    parsed = dateparser.parse(due_date)
+    if parsed is None:
+        return None
     return {
         'title': title,
         'course': course,
-        'dueDate': dateparser.parse(due_date).isoformat(),
+        'dueDate': parsed.isoformat(),
         'link': link,
         'submitted': submitted
     }

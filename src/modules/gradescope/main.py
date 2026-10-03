@@ -52,62 +52,96 @@ class Gradescope(Module):
             # Retrieve assignment information
             course_dashboard_res = self.session.get(Gradescope.ROOT + course_link)
             course_dashboard = Module.parse_html(course_dashboard_res.text)
-            assignment_table = course_dashboard.find('tbody')
-            for row in assignment_table.find_all('tr', {'role': 'row'}):
-                date_string = Gradescope._get_assignment_due_date(row)
-                if date_string is not None:         # Only add assignment if it has a due date
-                    title = Gradescope._get_assignment_title(row)
-                    status = Gradescope._get_assignment_status(row)
-                    link = Gradescope._get_assignment_link(row, course_link)
-                    submitted = (status != 'No Submission')
+            for assignment in Gradescope._assignments_from_course_page(
+                course_dashboard, course_name, course_link
+            ):
+                assignments[course_name].append(assignment)
+            print(f"{course_name}: {len(assignments[course_name])} assignments")
 
-                    # Add to assignments list
-                    assignments[course_name].append(utils.get_assignment_dict(
-                        title,
-                        course_name,
-                        date_string,
-                        link,
-                        submitted
-                    ))
+    @staticmethod
+    def _assignments_from_course_page(course_dashboard, course_name, course_link):
+        """Reads the student assignment table from a course page."""
+
+        assignment_table = course_dashboard.find('table', id='assignments-student-table')
+        if assignment_table is None:
+            assignment_table = course_dashboard.find('tbody')
+        if assignment_table is None:
+            print(f"No assignment table for '{course_name}'")
+            return []
+
+        tbody = assignment_table.find('tbody') or assignment_table
+        parsed = []
+        for row in tbody.find_all('tr'):
+            date_string = Gradescope._get_assignment_due_date(row)
+            title = Gradescope._get_assignment_title(row)
+            if not date_string or not title:
+                continue
+            status = Gradescope._get_assignment_status(row)
+            link = Gradescope._get_assignment_link(row, course_link)
+            assignment = utils.get_assignment_dict(
+                title,
+                course_name,
+                date_string,
+                link,
+                Gradescope._is_submitted(row, status)
+            )
+            if assignment is not None:
+                parsed.append(assignment)
+        return parsed
 
     @staticmethod
     def _get_assignment_title(row):
         """Returns the title of an assignment given its row in the table."""
 
-        heading = row.find('th')
+        heading = row.find('th', class_='table--primaryLink')
+        if heading is None:
+            heading = row.find('th')
+        if heading is None:
+            return ''
         title = heading.find('a')
         if title is None:
             title = heading.find('button')
         if title is None:
             title = heading
-        return title.text
+        return title.get_text(strip=True)
 
     @staticmethod
     def _get_assignment_due_date(row):
-        """Returns the title of an assignment given its row in the table."""
+        """Returns the due date of an assignment given its row in the table."""
 
-        due_date = row.find('time', {'class': 'submissionTimeChart--dueDate'})
-        if due_date is not None:
-            return due_date.text
-        else:
+        due_date = row.find('time', class_='submissionTimeChart--dueDate')
+        if due_date is None:
             return None
+        return due_date.get('datetime') or due_date.get_text(strip=True) or None
 
     @staticmethod
     def _get_assignment_status(row):
-        """Returns the title of an assignment given its row in the table."""
+        """Returns the submission status text for an assignment row."""
 
-        status = row.find('div', {'class': 'submissionStatus--text'})
+        status = row.find('div', class_='submissionStatus--text')
         if status is None:
-            status = row.find('div', {'class': 'submissionStatus--score'})
-        return status.text
+            status = row.find('div', class_='submissionStatus--score')
+        if status is None:
+            return ''
+        return status.get_text(strip=True)
+
+    @staticmethod
+    def _is_submitted(row, status):
+        status_cell = row.find('td', class_='submissionStatus')
+        classes = status_cell.get('class', []) if status_cell is not None else []
+        if 'submissionStatus-complete' in classes:
+            return True
+        return status not in ('', 'No Submission')
 
     @staticmethod
     def _get_assignment_link(row, course_link):
         """Returns a link to the assignment."""
 
-        primary_link = row.find('th', {'class': 'table--primaryLink'})
-        anchor = primary_link.find('a')
+        primary_link = row.find('th', class_='table--primaryLink')
+        anchor = primary_link.find('a') if primary_link is not None else None
         link = course_link
-        if anchor is not None:
+        if anchor is not None and anchor.get('href'):
             link = anchor.get('href')
+        if link.startswith('http'):
+            return link
         return Gradescope.ROOT + link
