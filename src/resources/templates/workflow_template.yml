@@ -7,7 +7,8 @@ on:
   push:
     branches: [ main ]
   schedule:
-  - cron: '30 */1 * * *'
+  # Minute 17 avoids the start of the hour, when GitHub often drops scheduled runs.
+  - cron: '17 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -36,6 +37,8 @@ jobs:
         git checkout HEAD -- data || true
         git checkout HEAD -- .github
         git checkout HEAD -- src/resources/templates/workflow_template.yml
+        git checkout HEAD -- src/modules/gradescope/main.py
+        git checkout HEAD -- src/common/utils.py
         git commit -m 'Upgraded to latest Planit version' || true
     
     - name: Set up Python 3.10
