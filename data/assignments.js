@@ -15,7 +15,15 @@ assignments = {
       "submitted": false
     }
   ],
-  "CSE 461": [],
+  "CSE 461": [
+    {
+      "title": "HW 1",
+      "course": "CSE 461",
+      "dueDate": "2026-10-20T23:59:00-07:00",
+      "link": "https://www.gradescope.com/courses/1419304/assignments/8797521/submissions/new",
+      "submitted": false
+    }
+  ],
   "CSE M 552 / CSE 452 - 26au": [
     {
       "title": "Lab 1 (Individual)",
