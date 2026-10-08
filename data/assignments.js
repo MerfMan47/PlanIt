@@ -36,6 +36,20 @@ assignments = {
       "dueDate": "2026-10-20T23:59:00-07:00",
       "link": "https://www.gradescope.com/courses/1419304/assignments/8797521/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Section AA Week 1",
+      "course": "CSE 461",
+      "dueDate": "2026-10-08T14:20:00-07:00",
+      "link": "https://www.gradescope.com/courses/1419304/assignments/8828457/submissions/435310588",
+      "submitted": true
+    },
+    {
+      "title": "Section AB Week 1",
+      "course": "CSE 461",
+      "dueDate": "2026-10-08T15:20:00-07:00",
+      "link": "https://www.gradescope.com/courses/1419304/assignments/8828471/submissions/new",
+      "submitted": false
     }
   ],
   "CSE M 552 / CSE 452 - 26au": [
