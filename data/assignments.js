@@ -4,15 +4,15 @@ assignments = {
       "title": "HW0",
       "course": "CSE 446/546 26au",
       "dueDate": "2026-10-07T23:59:00-07:00",
-      "link": "https://www.gradescope.com/courses/1395613",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1395613/assignments/8768486/submissions/434901622",
+      "submitted": true
     },
     {
       "title": "HW0-Code",
       "course": "CSE 446/546 26au",
       "dueDate": "2026-10-07T23:59:00-07:00",
-      "link": "https://www.gradescope.com/courses/1395613",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1395613/assignments/8768510/submissions/434904323",
+      "submitted": true
     },
     {
       "title": "HW1-A",
@@ -57,8 +57,8 @@ assignments = {
       "title": "Problem Set 1 (individual): RPC semantics",
       "course": "CSE M 552 / CSE 452 - 26au",
       "dueDate": "2026-10-09T23:59:00-07:00",
-      "link": "https://www.gradescope.com/courses/1418158/assignments/8780402/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1418158/assignments/8780402/submissions/434906255",
+      "submitted": true
     }
   ]
 };
