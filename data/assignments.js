@@ -57,6 +57,13 @@ assignments = {
       "dueDate": "2026-10-08T16:20:00-07:00",
       "link": "https://www.gradescope.com/courses/1419304",
       "submitted": false
+    },
+    {
+      "title": "Lab 1",
+      "course": "CSE 461",
+      "dueDate": "2026-10-29T23:59:00-07:00",
+      "link": "https://www.gradescope.com/courses/1419304",
+      "submitted": false
     }
   ],
   "CSE M 552 / CSE 452 - 26au": [
@@ -64,15 +71,15 @@ assignments = {
       "title": "Lab 1 (Individual)",
       "course": "CSE M 552 / CSE 452 - 26au",
       "dueDate": "2026-10-09T23:59:00-07:00",
-      "link": "https://www.gradescope.com/courses/1418158",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1418158/assignments/8780372/submissions/435928916",
+      "submitted": true
     },
     {
       "title": "Lab 1 Design Document (Individual)",
       "course": "CSE M 552 / CSE 452 - 26au",
       "dueDate": "2026-10-09T23:59:00-07:00",
-      "link": "https://www.gradescope.com/courses/1418158",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1418158/assignments/8780395/submissions/435932032",
+      "submitted": true
     },
     {
       "title": "Problem Set 1 (individual): RPC semantics",
