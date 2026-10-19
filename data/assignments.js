@@ -122,6 +122,20 @@ assignments = {
       "dueDate": "2026-10-20T23:59:00-07:00",
       "link": "https://www.gradescope.com/courses/1418158/assignments/8852301/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Lab 2",
+      "course": "CSE M 552 / CSE 452 - 26au",
+      "dueDate": "2026-10-28T23:59:00-07:00",
+      "link": "https://www.gradescope.com/courses/1418158",
+      "submitted": false
+    },
+    {
+      "title": "Lab 2 Design Document Revision (W credit only)",
+      "course": "CSE M 552 / CSE 452 - 26au",
+      "dueDate": "2025-11-05T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1418158",
+      "submitted": false
     }
   ]
 };
