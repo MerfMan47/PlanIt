@@ -113,8 +113,8 @@ assignments = {
       "title": "Lab 2 Design Document",
       "course": "CSE M 552 / CSE 452 - 26au",
       "dueDate": "2026-10-20T23:59:00-07:00",
-      "link": "https://www.gradescope.com/courses/1418158",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1418158/assignments/8852295/submissions/439504669",
+      "submitted": true
     },
     {
       "title": "Problem Set 2 (individual): Primary Backup and Virtual Time",
