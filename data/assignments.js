@@ -138,7 +138,14 @@ assignments = {
     {
       "title": "Section AB Week 4",
       "course": "CSE 461",
-      "dueDate": "2026-10-08T15:20:00-07:00",
+      "dueDate": "2026-10-29T16:00:00-07:00",
+      "link": "https://www.gradescope.com/courses/1419304",
+      "submitted": false
+    },
+    {
+      "title": "Section AC Week 4",
+      "course": "CSE 461",
+      "dueDate": "2026-10-29T16:20:00-07:00",
       "link": "https://www.gradescope.com/courses/1419304",
       "submitted": false
     }
