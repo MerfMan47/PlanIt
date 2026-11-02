@@ -104,7 +104,7 @@ assignments = {
       "title": "HW 2",
       "course": "CSE 461",
       "dueDate": "2026-10-30T23:59:00-07:00",
-      "link": "https://www.gradescope.com/courses/1419304/assignments/8917596/submissions/new",
+      "link": "https://www.gradescope.com/courses/1419304",
       "submitted": false
     },
     {
