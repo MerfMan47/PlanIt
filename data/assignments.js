@@ -204,8 +204,8 @@ assignments = {
       "title": "Problem Set 3 (individual): Paxos",
       "course": "CSE M 552 / CSE 452 - 26au",
       "dueDate": "2026-11-02T23:59:00-08:00",
-      "link": "https://www.gradescope.com/courses/1418158/assignments/8939849/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1418158/assignments/8939849/submissions/444018456",
+      "submitted": true
     },
     {
       "title": "Lab 3 Design Document",
