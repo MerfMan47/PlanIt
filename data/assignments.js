@@ -169,6 +169,13 @@ assignments = {
       "dueDate": "2026-11-05T16:00:00-08:00",
       "link": "https://www.gradescope.com/courses/1419304",
       "submitted": false
+    },
+    {
+      "title": "Section AC Week 5",
+      "course": "CSE 461",
+      "dueDate": "2026-11-05T16:20:00-08:00",
+      "link": "https://www.gradescope.com/courses/1419304",
+      "submitted": false
     }
   ],
   "CSE M 552 / CSE 452 - 26au": [
