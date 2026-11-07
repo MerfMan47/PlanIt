@@ -25,8 +25,8 @@ assignments = {
       "title": "HW2-A",
       "course": "CSE 446/546 26au",
       "dueDate": "2026-11-06T23:59:00-08:00",
-      "link": "https://www.gradescope.com/courses/1395613",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1395613/assignments/8771237/submissions/445853956",
+      "submitted": true
     },
     {
       "title": "HW1-Code",
@@ -39,8 +39,8 @@ assignments = {
       "title": "HW2-Code",
       "course": "CSE 446/546 26au",
       "dueDate": "2026-11-06T23:59:00-08:00",
-      "link": "https://www.gradescope.com/courses/1395613",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1395613/assignments/8771255/submissions/445854713",
+      "submitted": true
     }
   ],
   "CSE 461": [
