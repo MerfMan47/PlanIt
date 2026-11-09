@@ -29,6 +29,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "HW3-A",
+      "course": "CSE 446/546 26au",
+      "dueDate": "2026-11-23T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1395613",
+      "submitted": false
+    },
+    {
       "title": "HW1-Code",
       "course": "CSE 446/546 26au",
       "dueDate": "2026-10-21T23:59:00-07:00",
@@ -41,6 +48,13 @@ assignments = {
       "dueDate": "2026-11-06T23:59:00-08:00",
       "link": "https://www.gradescope.com/courses/1395613/assignments/8771255/submissions/445854713",
       "submitted": true
+    },
+    {
+      "title": "HW3-Code",
+      "course": "CSE 446/546 26au",
+      "dueDate": "2026-11-23T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1395613",
+      "submitted": false
     }
   ],
   "CSE 461": [
@@ -239,8 +253,8 @@ assignments = {
       "title": "Lab 3 Design Document",
       "course": "CSE M 552 / CSE 452 - 26au",
       "dueDate": "2026-11-10T23:59:00-08:00",
-      "link": "https://www.gradescope.com/courses/1418158",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1418158/assignments/8939851/submissions/446283291",
+      "submitted": true
     },
     {
       "title": "Problem Set 4 (individual):  MultiPaxos",
