@@ -267,8 +267,8 @@ assignments = {
       "title": "Problem Set 4 (individual):  MultiPaxos",
       "course": "CSE M 552 / CSE 452 - 26au",
       "dueDate": "2026-11-10T23:59:00-08:00",
-      "link": "https://www.gradescope.com/courses/1418158/assignments/8939857/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1418158/assignments/8939857/submissions/447005572",
+      "submitted": true
     },
     {
       "title": "Lab 3",
