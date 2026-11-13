@@ -304,6 +304,48 @@ assignments = {
       "dueDate": "2026-11-23T23:59:00-08:00",
       "link": "https://www.gradescope.com/courses/1418158/assignments/8995630/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Lab 4 Part 1",
+      "course": "CSE M 552 / CSE 452 - 26au",
+      "dueDate": "2025-11-26T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1418158",
+      "submitted": false
+    },
+    {
+      "title": "Lab 4 Part 2",
+      "course": "CSE M 552 / CSE 452 - 26au",
+      "dueDate": "2025-12-05T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1418158",
+      "submitted": false
+    },
+    {
+      "title": "Lab 4.2 Design Document",
+      "course": "CSE M 552 / CSE 452 - 26au",
+      "dueDate": "2025-11-21T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1418158",
+      "submitted": false
+    },
+    {
+      "title": "Lab 3 Design Document Revision (W credit only)",
+      "course": "CSE M 552 / CSE 452 - 26au",
+      "dueDate": "2025-11-24T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1418158",
+      "submitted": false
+    },
+    {
+      "title": "Problem Set 6a (Individual): Sharding and Caching",
+      "course": "CSE M 552 / CSE 452 - 26au",
+      "dueDate": "2025-11-26T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1418158",
+      "submitted": false
+    },
+    {
+      "title": "Problem set 6b (individual): Distributed Transactions",
+      "course": "CSE M 552 / CSE 452 - 26au",
+      "dueDate": "2025-11-26T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1418158",
+      "submitted": false
     }
   ]
 };
