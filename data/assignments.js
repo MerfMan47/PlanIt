@@ -295,8 +295,8 @@ assignments = {
       "title": "Lab 3",
       "course": "CSE M 552 / CSE 452 - 26au",
       "dueDate": "2026-11-20T23:59:00-08:00",
-      "link": "https://www.gradescope.com/courses/1418158",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1418158/assignments/8939859/submissions/449167561",
+      "submitted": true
     },
     {
       "title": "Problem Set 5 (individual): Linearizability",
