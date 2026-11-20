@@ -218,6 +218,27 @@ assignments = {
       "dueDate": "2026-11-12T16:20:00-08:00",
       "link": "https://www.gradescope.com/courses/1419304",
       "submitted": false
+    },
+    {
+      "title": "Week 7 Section AA",
+      "course": "CSE 461",
+      "dueDate": "2026-11-19T14:20:00-08:00",
+      "link": "https://www.gradescope.com/courses/1419304",
+      "submitted": false
+    },
+    {
+      "title": "Section AB Week 7",
+      "course": "CSE 461",
+      "dueDate": "2026-11-19T16:00:00-08:00",
+      "link": "https://www.gradescope.com/courses/1419304",
+      "submitted": false
+    },
+    {
+      "title": "Week 7 Section AC",
+      "course": "CSE 461",
+      "dueDate": "2026-11-19T16:20:00-08:00",
+      "link": "https://www.gradescope.com/courses/1419304",
+      "submitted": false
     }
   ],
   "CSE M 552 / CSE 452 - 26au": [
