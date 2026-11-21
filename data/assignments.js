@@ -32,8 +32,8 @@ assignments = {
       "title": "HW3-A",
       "course": "CSE 446/546 26au",
       "dueDate": "2026-11-23T23:59:00-08:00",
-      "link": "https://www.gradescope.com/courses/1395613",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1395613/assignments/8771240/submissions/450694105",
+      "submitted": true
     },
     {
       "title": "HW1-Code",
@@ -53,8 +53,8 @@ assignments = {
       "title": "HW3-Code",
       "course": "CSE 446/546 26au",
       "dueDate": "2026-11-23T23:59:00-08:00",
-      "link": "https://www.gradescope.com/courses/1395613",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1395613/assignments/8771256/submissions/450694026",
+      "submitted": true
     }
   ],
   "CSE 461": [
@@ -350,7 +350,7 @@ assignments = {
     {
       "title": "Lab 3 Design Document Revision (W credit only)",
       "course": "CSE M 552 / CSE 452 - 26au",
-      "dueDate": "2025-11-24T23:59:00-08:00",
+      "dueDate": "2026-12-02T23:59:00-08:00",
       "link": "https://www.gradescope.com/courses/1418158",
       "submitted": false
     },
