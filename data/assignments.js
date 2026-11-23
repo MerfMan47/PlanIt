@@ -36,6 +36,20 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "HW4-A",
+      "course": "CSE 446/546 26au",
+      "dueDate": "2026-12-11T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1395613",
+      "submitted": false
+    },
+    {
+      "title": "HW4-Code (A3 and A4)",
+      "course": "CSE 446/546 26au",
+      "dueDate": "2026-12-11T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1395613",
+      "submitted": false
+    },
+    {
       "title": "HW1-Code",
       "course": "CSE 446/546 26au",
       "dueDate": "2026-10-21T23:59:00-07:00",
@@ -55,6 +69,13 @@ assignments = {
       "dueDate": "2026-11-23T23:59:00-08:00",
       "link": "https://www.gradescope.com/courses/1395613/assignments/8771256/submissions/450694026",
       "submitted": true
+    },
+    {
+      "title": "HW4-Code (A5)",
+      "course": "CSE 446/546 26au",
+      "dueDate": "2026-12-11T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1395613",
+      "submitted": false
     }
   ],
   "CSE 461": [
