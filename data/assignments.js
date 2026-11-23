@@ -195,7 +195,7 @@ assignments = {
       "title": "HW 3",
       "course": "CSE 461",
       "dueDate": "2026-11-19T23:59:00-08:00",
-      "link": "https://www.gradescope.com/courses/1419304/assignments/9026252/submissions/new",
+      "link": "https://www.gradescope.com/courses/1419304",
       "submitted": false
     },
     {
@@ -341,10 +341,31 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Lab 4.2 Design Document",
+      "course": "CSE M 552 / CSE 452 - 26au",
+      "dueDate": "2026-11-30T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1418158",
+      "submitted": false
+    },
+    {
       "title": "Lab 3 Design Document Revision (W credit only)",
       "course": "CSE M 552 / CSE 452 - 26au",
       "dueDate": "2026-12-02T23:59:00-08:00",
       "link": "https://www.gradescope.com/courses/1418158",
+      "submitted": false
+    },
+    {
+      "title": "Problem Set 6a (Individual): Sharding and Caching",
+      "course": "CSE M 552 / CSE 452 - 26au",
+      "dueDate": "2026-12-02T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1418158/assignments/9057325/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Problem set 6b (individual): Distributed Transactions",
+      "course": "CSE M 552 / CSE 452 - 26au",
+      "dueDate": "2026-12-02T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1418158/assignments/9057339/submissions/new",
       "submitted": false
     }
   ]
