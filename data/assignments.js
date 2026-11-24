@@ -260,6 +260,20 @@ assignments = {
       "dueDate": "2026-11-19T16:20:00-08:00",
       "link": "https://www.gradescope.com/courses/1419304",
       "submitted": false
+    },
+    {
+      "title": "HW 4",
+      "course": "CSE 461",
+      "dueDate": "2026-12-01T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1419304/assignments/9112591/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Lab 3",
+      "course": "CSE 461",
+      "dueDate": "2026-12-10T23:59:00-08:00",
+      "link": "https://www.gradescope.com/courses/1419304",
+      "submitted": false
     }
   ],
   "CSE M 552 / CSE 452 - 26au": [
