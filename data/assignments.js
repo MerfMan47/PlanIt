@@ -43,7 +43,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "HW4-Code (A3 and A4)",
+      "title": "HW4-Code (A3 and A5)",
       "course": "CSE 446/546 26au",
       "dueDate": "2026-12-11T23:59:00-08:00",
       "link": "https://www.gradescope.com/courses/1395613",
@@ -71,7 +71,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "HW4-Code (A5)",
+      "title": "HW4-Code (A6)",
       "course": "CSE 446/546 26au",
       "dueDate": "2026-12-11T23:59:00-08:00",
       "link": "https://www.gradescope.com/courses/1395613",
